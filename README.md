@@ -1,7 +1,7 @@
 # Metodos-Multivariados-Categoricos
 ## Latent Dirichlet Allocation-LDA 101
 
-Este repositorio contiene el código necesario para replicar un ajuste de LDA al extropy chat. Debido al tamaño del archivo no es posible mostrarlo; en caso de querer replicar los resultados, el archivo de texto plano se encuentra en la carpeta R-example de este repositorio, solo debes descargar y descomprimirlo.
+Este repositorio contiene el código necesario para replicar un ajuste de LDA al [extropy chat](http://lists.extropy.org/pipermail/extropy-chat/). Debido al tamaño del archivo no es posible mostrarlo; en caso de querer replicar los resultados, el archivo de texto plano se encuentra en la carpeta R-example de este repositorio, solo debes descargar y descomprimirlo.
 
 Además es posible implementar el código con otros archivos de interés, únicamente ajustanto las stopwords (según el idioma) o 
 agregando nuevas a la lista del código.
