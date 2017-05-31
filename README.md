@@ -6,3 +6,9 @@ posible cargarlo a github pero no duden en contactarnos y con gusto podemos envi
 
 Además es posible implementar el código con otros archivos de interés, únicamente ajustanto las stopwords (según el idioma) o 
 agregando nuevas a la lista del código.
+
+## Colaboradores
+  - Alejandro Pérez
+  - Daniel Camarena
+  - Maximiliano Alvarez
+  - Patricio Hernández
