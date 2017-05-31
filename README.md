@@ -12,3 +12,6 @@ agregando nuevas a la lista del código.
   - Daniel Camarena
   - Maximiliano Alvarez
   - Patricio Hernández
+  
+## LDA R 
+Se muestra un ejemplo de la implementación en R en la siguiente liga(https://www.youtube.com/watch?v=gg4uf8h21Uc&feature=youtu.be)
